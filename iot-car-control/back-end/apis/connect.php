@@ -1,7 +1,7 @@
 <?php
-$servername = "127.0.0.1:3306";
+$servername = "jsjf-iot-01.cveuw8ueos2w.us-east-2.rds.amazonaws.com:3306";
 $username = "admin";
-$password = "Admin12345#";
+$password = "12345678";
 $dbname = "iot_car";
 
 try {
